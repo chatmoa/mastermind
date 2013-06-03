@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=MasterMind
+Comment=My project description
+Exec=/usr/bin/qmlscene $@ /usr/share/MasterMind/MasterMind.qml
+Icon=qmlscene
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

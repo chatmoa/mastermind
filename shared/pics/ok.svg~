@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102.4pt" height="102.4pt">
+<defs/>
+<g id="layer0">
+  <g id="group0" transform="translate(12.1567, 0.696251)" fill="none">
+   <path id="shape0" transform="translate(0.60018, 0.588781)" fill="#b2b2b2" d="M95.5731 1.97897C88.8761 -2.00003 80.2061 0.209967 76.2331 6.91497L33.9091 78.255L27.1311 62.115C24.1101 54.918 15.8431 51.543 8.65314 54.569C1.47114 57.576 -1.91286 65.857 1.10214 73.05L18.7241 115.046C20.7951 119.964 25.4501 123.298 30.7711 123.671C36.0841 124.034 41.1551 121.372 43.8751 116.788L100.506 21.333C104.483 14.631 102.272 5.95897 95.5731 1.97897Z"/>
+  </g>
+  <g id="group1" transform="translate(13.8553, 55.9152)" fill="none" opacity="0.50000000000">
+   <path id="shape1" transform="translate(0.595945, 0.60185)" fill="#ffffff" d="M8.46171 3.08692C15.1217 0.186922 23.1427 3.86592 26.3717 11.3019L25.4617 9.20792C22.2287 1.76592 14.2117 -1.90808 7.55171 0.991922C0.891712 3.89592 -1.88229 12.2779 1.34771 19.7139L2.25771 21.8079C-0.971288 14.3719 1.80271 5.98992 8.46171 3.08692Z"/>
+  </g>
+  <path id="shape2" transform="translate(47.352, 4.181)" fill="#ffffff" opacity="0.50000000000" d="M0.779 79.242L0 77.034L42.333 5.557C42.333 5.557 44.078 2.954 44.902 2.083C46.482 0.409 47.921 0 47.921 0Z"/>
+ </g>
+</svg>
